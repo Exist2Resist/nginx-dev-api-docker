@@ -1,3 +1,6 @@
+Systemd file location
+ /usr/lib/systemd/system/nginx.service
+
 Configuration file location:
  /etc/nginx/nginx.conf
 
